@@ -1,0 +1,423 @@
+oppOppPythRatingAvgDayWeight weighted 64.5
+oppOppRawRatingAvgDayWeight weighted 65.34375
+oppOppRawRatingAvg weighted 68.8125
+oppOppPythRatingAvg weighted 69.3125
+rawRatingAvgDayWeight weighted 71.4375
+pythRatingAvgDayWeight weighted 72.03125
+rawRatingAvg weighted 76.0
+pythRatingAvg weighted 77.5
+secondOrderPythByDay weighted 80.1875
+secondOrderRawByDay weighted 80.46875
+thirdOrderPythByDay weighted 82.03125
+thirdOrderRawByDay weighted 82.34375
+secondOrderRaw weighted 82.4375
+boring weighted 82.53125
+secondOrderPyth weighted 84.59375
+thirdOrderPyth weighted 85.28125
+thirdOrderRaw weighted 86.28125
+secondOrderRawFancy weighted 88.40625
+secondOrderRawFancyByDay weighted 89.5625
+thirdOrderRawFancy weighted 89.875
+thirdOrderRawFancyByDay weighted 91.5625
+actual weighted 198.0
+rawRatingAvgDayWeight unweighted 34.90625
+pythRatingAvgDayWeight unweighted 35.03125
+oppOppPythRatingAvgDayWeight unweighted 35.375
+oppOppRawRatingAvgDayWeight unweighted 35.46875
+oppOppRawRatingAvg unweighted 36.0625
+oppOppPythRatingAvg unweighted 36.15625
+rawRatingAvg unweighted 36.40625
+pythRatingAvg unweighted 36.65625
+secondOrderRawByDay unweighted 37.59375
+secondOrderPythByDay unweighted 37.65625
+thirdOrderPythByDay unweighted 38.4375
+thirdOrderRawByDay unweighted 38.4375
+secondOrderRaw unweighted 38.71875
+secondOrderPyth unweighted 38.9375
+thirdOrderPyth unweighted 39.1875
+thirdOrderRaw unweighted 39.1875
+boring unweighted 39.28125
+secondOrderRawFancyByDay unweighted 40.59375
+secondOrderRawFancy unweighted 40.71875
+thirdOrderRawFancy unweighted 41.03125
+thirdOrderRawFancyByDay unweighted 41.25
+actual unweighted 64.96875
+oppOppPythRatingAvgDayWeight weightedWithBonus 194.53125
+oppOppRawRatingAvgDayWeight weightedWithBonus 195.3125
+oppOppRawRatingAvg weightedWithBonus 199.0
+oppOppPythRatingAvg weightedWithBonus 199.96875
+rawRatingAvgDayWeight weightedWithBonus 212.21875
+boring weightedWithBonus 212.84375
+pythRatingAvgDayWeight weightedWithBonus 213.125
+rawRatingAvg weightedWithBonus 217.0
+pythRatingAvg weightedWithBonus 219.09375
+secondOrderPythByDay weightedWithBonus 220.40625
+secondOrderRawByDay weightedWithBonus 220.625
+thirdOrderPythByDay weightedWithBonus 222.46875
+thirdOrderRawByDay weightedWithBonus 222.59375
+secondOrderRaw weightedWithBonus 223.03125
+thirdOrderPyth weightedWithBonus 225.5
+secondOrderPyth weightedWithBonus 226.09375
+thirdOrderRaw weightedWithBonus 226.46875
+secondOrderRawFancy weightedWithBonus 230.46875
+thirdOrderRawFancy weightedWithBonus 231.25
+secondOrderRawFancyByDay weightedWithBonus 232.90625
+thirdOrderRawFancyByDay weightedWithBonus 233.71875
+actual weightedWithBonus 506.75
+['1 Villanova', '8 Virginia Tech', '4 Wichita St', '5 West Virginia', '3 Texas Tech', '6 Florida', '10 Butler', '2 Purdue', '1 Kansas', '8 Seton Hall', '4 Auburn', '5 Clemson', '3 Michigan St', '6 TCU', '7 Rhode Island', '2 Duke', '1 Virginia', '8 Creighton', '4 Arizona', '5 Kentucky', '3 Tennessee', '11 Loyola-Chicago', '7 Nevada', '2 Cincinnati', '1 Xavier', '9 Florida St', '4 Gonzaga', '5 Ohio St', '3 Michigan', '6 Houston', '7 Texas A&M', '2 North Carolina']
+['1 Villanova', '5 West Virginia', '3 Texas Tech', '2 Purdue', '1 Kansas', '4 Auburn', '3 Michigan St', '2 Duke', '1 Virginia', '4 Arizona', '3 Tennessee', '2 Cincinnati', '1 Xavier', '4 Gonzaga', '3 Michigan', '2 North Carolina']
+['1 Villanova', '2 Purdue', '1 Kansas', '2 Duke', '1 Virginia', '2 Cincinnati', '4 Gonzaga', '3 Michigan']
+['1 Villanova', '2 Duke', '1 Virginia', '4 Gonzaga']
+['2 Duke', '1 Virginia']
+['1 Virginia']
+Alabama A&M 0.397183953742
+MD E Shore 0.400558758098
+Northwestern LA 0.402679239514
+Chicago St 0.402810748097
+Delaware St 0.402995306636
+MS Valley St 0.403480494541
+Coppin St 0.404022134585
+Longwood 0.408659616795
+Incarnate Word 0.409355478875
+Jackson St 0.410335992466
+S Carolina St 0.410487163475
+Bryant 0.410506437177
+Alcorn St 0.411191541585
+Houston Bap 0.411291014475
+SC Upstate 0.411419090735
+Florida A&M 0.411449815768
+VMI 0.41178780541
+Alabama St 0.412498948519
+Northern Arizona 0.413026446674
+Cal Poly SLO 0.414125838397
+Presbyterian 0.414346105179
+Howard 0.414604574283
+CS Northridge 0.415273555219
+Maine 0.415668258904
+Ark Pine Bluff 0.416202086618
+Youngstown St 0.417445980824
+Southern Univ 0.417599065577
+Detroit 0.417843983605
+American Univ 0.417994819114
+W Illinois 0.418028533291
+Savannah St 0.418508232867
+Charlotte 0.418604067763
+TAM C. Christi 0.419519365451
+Jacksonville 0.41959034019
+San Jose St 0.419691726874
+Edwardsville 0.419711197026
+Stetson 0.419838427554
+Loyola MD 0.419902030347
+W Carolina 0.419920692176
+Fordham 0.420084427765
+Central Conn 0.420374747402
+Cleveland St 0.420413194409
+North Florida 0.420448493204
+Chattanooga 0.420939975758
+Grambling 0.421188056688
+Citadel 0.421209224301
+McNeese St 0.421421694276
+TN Martin 0.421659378609
+Marist 0.421674129264
+CS Sacramento 0.421702816707
+UC Riverside 0.421735892021
+Kennesaw 0.421979742944
+Ark Little Rock 0.422012178404
+Missouri KC 0.422137489562
+Morgan St 0.422282173572
+Prairie View 0.422339974209
+Siena 0.422385893295
+East Carolina 0.422390170697
+Samford 0.422390450538
+St Francis NY 0.422424180285
+NE Omaha 0.422425427814
+Dartmouth 0.422992388224
+NC A&T 0.423194031786
+Binghamton 0.423199275135
+Rice 0.423234717897
+California 0.42324158407
+IUPUI 0.423244448012
+Montana St 0.42333816356
+E Kentucky 0.423367635285
+Morehead St 0.423742041976
+Santa Clara 0.42385672104
+Arkansas St 0.423903520936
+Sacred Heart 0.423997863076
+Norfolk St 0.424123407443
+New Orleans 0.424129037093
+TX Southern 0.424427876481
+Southern Utah 0.424557957659
+Abilene Chr 0.424709417116
+Bethune-Cookman 0.424834844116
+E Illinois 0.424885610633
+Holy Cross 0.425066387197
+Elon 0.425158812526
+NC Central 0.425209120546
+Portland 0.42528726424
+UTRGV 0.425288275284
+North Dakota 0.425345510685
+Pittsburgh 0.425623685368
+F Dickinson 0.425756225964
+CS Bakersfield 0.426035633346
+Quinnipiac 0.426116679752
+South Florida 0.42612511384
+Gardner Webb 0.426189128551
+Army 0.426222214463
+Cornell 0.426422179131
+Robert Morris 0.426668456392
+Pepperdine 0.426738560974
+MA Lowell 0.426814086424
+New Hampshire 0.426826736134
+Oral Roberts 0.42687063126
+Brown 0.427150985102
+WI Green Bay 0.427151411976
+Lafayette 0.427194056728
+UTEP 0.427233467531
+Akron 0.427237116083
+N Illinois 0.427448939395
+SE Missouri St 0.427632980812
+Delaware 0.42773964142
+Drexel 0.427794676005
+Loy Marymount 0.428124406838
+UNC Wilmington 0.428245204676
+Southern Miss 0.428285537237
+Colorado St 0.428550797469
+Boston Univ 0.428567935987
+High Point 0.42858178236
+Air Force 0.428586134848
+NJIT 0.428719287409
+FL Atlantic 0.428747690291
+Texas St 0.429263141672
+Charleston So 0.42932425938
+Tennessee Tech 0.429719296176
+James Madison 0.429819831139
+Long Island 0.429846016106
+Idaho St 0.430250207671
+Hampton 0.430371149512
+Bowling Green 0.43055624128
+Cent Arkansas 0.430756297482
+Long Beach St 0.430859939219
+Massachusetts 0.430950527433
+Campbell 0.431201259591
+George Mason 0.431234542244
+Sam Houston St 0.43145171908
+Florida Intl 0.431533091308
+Columbia 0.431797311185
+Stony Brook 0.431874065287
+Lamar 0.432058735117
+South Alabama 0.432363252201
+Yale 0.432445879081
+UNC Asheville 0.432483904546
+Kent 0.432542581227
+Denver 0.432719054132
+Tennessee St 0.432734498523
+Manhattan 0.432938301691
+SE Louisiana 0.433121419868
+ULM 0.43322249635
+St Peter's 0.433298415745
+Lehigh 0.433347383133
+WI Milwaukee 0.433440625814
+IL Chicago 0.433502177125
+Hawaii 0.433603292923
+Portland St 0.433683467939
+Washington St 0.433689602276
+Austin Peay 0.433806877428
+Appalachian St 0.433838964586
+Fairfield 0.433896587433
+G Washington 0.433965323953
+Ohio 0.434273715585
+Coastal Car 0.434438858704
+Connecticut 0.434697920091
+Mt St Mary's 0.434731563331
+N Dakota St 0.434737498099
+Navy 0.434768489673
+Seattle 0.4347867739
+St Francis PA 0.434972257257
+Nicholls St 0.435036394497
+Colgate 0.435104146245
+Princeton 0.435148527076
+Hartford 0.435244196775
+North Texas 0.435644584252
+Tulane 0.435653483436
+Miami OH 0.435784243737
+W Michigan 0.4358570162
+Niagara 0.435948665761
+Oakland 0.435956242433
+Monmouth NJ 0.436073121156
+Valparaiso 0.436314415603
+Dayton 0.436407691411
+CS Fullerton 0.43684835562
+Drake 0.436858371619
+Pacific 0.43694037343
+Duquesne 0.436993362991
+Liberty 0.43713103498
+UT San Antonio 0.437199053338
+Troy 0.437252521335
+Towson 0.437282722958
+Lipscomb 0.437312651022
+Richmond 0.437561729788
+Radford 0.437605981475
+Weber St 0.437658335539
+UMBC 0.437665601074
+William & Mary 0.43796128614
+Ball St 0.438098537676
+Illinois St 0.438109891753
+IPFW 0.43817469592
+La Salle 0.438495808136
+Evansville 0.4386256016
+Hofstra 0.438884438225
+Jacksonville St 0.438919675119
+Louisiana Tech 0.438935972857
+Indiana St 0.439131929788
+San Francisco 0.439209334061
+UC Davis 0.439277084203
+Utah St 0.439282784275
+Mercer 0.439333424988
+Winthrop 0.439474990414
+S Illinois 0.43959695201
+Northern Iowa 0.439691982951
+C Michigan 0.439760950732
+Wagner 0.439801250347
+VA Commonwealth 0.439859919328
+Wofford 0.439928561591
+Bradley 0.439971844921
+UC Irvine 0.440151549772
+Memphis 0.440214582596
+St Louis 0.440304540413
+Rutgers 0.440355182619
+Minnesota 0.440413065362
+E Washington 0.440413574143
+Mississippi 0.440453418562
+Colorado 0.440684766667
+San Diego 0.440819891396
+Ga Southern 0.440840412797
+Idaho 0.440888410349
+Rider 0.441201654635
+Santa Barbara 0.441354989724
+Iona 0.441671604564
+UT Arlington 0.441869222378
+Albany NY 0.442029051534
+Missouri St 0.442053055208
+Harvard 0.44225389362
+Wyoming 0.442280985316
+DePaul 0.442307460554
+E Michigan 0.442624280612
+Georgia Tech 0.442664981989
+Iowa St 0.442916821297
+UNLV 0.443119304325
+Temple 0.443161604771
+Wright St 0.443198191925
+Vanderbilt 0.443517713759
+UAB 0.443550356321
+N Colorado 0.443735056523
+South Carolina 0.443995364307
+UCF 0.444366408422
+Georgetown 0.444530219296
+Col Charleston 0.444960168824
+FL Gulf Coast 0.444996151979
+St Joseph's PA 0.445091539921
+Canisius 0.44527950136
+Wake Forest 0.445494100342
+Washington 0.445506547389
+Toledo 0.44558024096
+Marshall 0.445597618476
+SF Austin 0.445823746755
+Iowa 0.445882719075
+St John's 0.445993762735
+Oregon St 0.446088575306
+Illinois 0.446488214352
+Stanford 0.446820874832
+Penn 0.446942281805
+New Mexico 0.446966137653
+Georgia 0.447063664243
+SMU 0.447087935048
+Grand Canyon 0.447146314378
+Northeastern 0.447673090114
+Tulsa 0.447870225142
+ETSU 0.448240946705
+N Kentucky 0.448574206328
+Providence 0.448647925296
+Belmont 0.448854589781
+Furman 0.448901365568
+Northwestern 0.449084039815
+Mississippi St 0.449404331256
+Wisconsin 0.449735613045
+Alabama 0.44974359531
+Boston College 0.449754297799
+LSU 0.449858226821
+St Bonaventure 0.450012330164
+Utah Valley 0.450049169421
+Fresno St 0.450058463999
+Georgia St 0.450301874901
+Montana 0.450316106558
+S Dakota St 0.450443089751
+BYU 0.450468093212
+Oklahoma 0.450602001439
+UNC Greensboro 0.45060877302
+South Dakota 0.450753780304
+Oregon 0.450769169516
+Utah 0.451038482198
+Syracuse 0.451513351891
+Marquette 0.451874838163
+Bucknell 0.451955379824
+UCLA 0.452110753067
+Kansas St 0.452244395704
+Arkansas 0.452327636539
+Oklahoma St 0.452336299624
+Missouri 0.452567190367
+Texas A&M 0.452641774843
+Texas 0.452788928424
+WKU 0.452959956041
+Buffalo 0.452999371933
+Arizona St 0.45313984084
+Vermont 0.453510322308
+Indiana 0.453584002712
+Rhode Island 0.45399800253
+Boise St 0.4541472312
+Baylor 0.454285456221
+Miami FL 0.454355102391
+Murray St 0.45437027171
+MTSU 0.454468461017
+Notre Dame 0.455082982238
+NC State 0.4551664294
+Nebraska 0.455289188032
+Florida St 0.455457418186
+Seton Hall 0.455654520148
+Davidson 0.455823750261
+USC 0.455900221974
+ULL 0.455918175036
+Virginia Tech 0.455966445521
+Florida 0.456061152507
+Maryland 0.456248390438
+Old Dominion 0.456576062714
+San Diego St 0.456675702725
+New Mexico St 0.456903093703
+Louisville 0.45699649359
+Kentucky 0.457338675701
+Nevada 0.457482476051
+Loyola-Chicago 0.457611697491
+TCU 0.458104025235
+Creighton 0.45821522856
+Butler 0.45868937986
+Clemson 0.458826503753
+Auburn 0.459145184249
+Tennessee 0.459570043406
+St Mary's CA 0.459761546697
+Arizona 0.460103051984
+Wichita St 0.460260499444
+Penn St 0.460521626264
+Xavier 0.461721598275
+Texas Tech 0.462994847471
+North Carolina 0.463516524893
+Kansas 0.464392387132
+Ohio St 0.464664751878
+West Virginia 0.465102472853
+Houston 0.466248374544
+Michigan 0.467378370613
+Gonzaga 0.468650135899
+Purdue 0.472230553397
+Villanova 0.472295803558
+Michigan St 0.472386320693
+Cincinnati 0.473232649829
+Duke 0.473439862037
+Virginia 0.476798612287
